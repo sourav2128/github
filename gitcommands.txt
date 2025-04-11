@@ -19,3 +19,4 @@
   21 git restore helloworld.java
   23 git restore helloworld.java
   git restore --staged helloworld.java
+  git remote set-url origin https://PAT@github.com/sourav2128/github.git
