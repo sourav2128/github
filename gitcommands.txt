@@ -1,0 +1,21 @@
+
+   4 git status
+   5 git add helloworld.java
+   6 git status
+   7 git rm --cached helloworld.java
+   8 git status
+   9 git add .
+  10 git status
+  11 clear
+  12 top
+  13 clear
+  14 git commit -m "added testing files"
+  15  git config --global user.email "shindesourav2128@gmail.com"
+  16 git config --global user.name "sourav2128"
+  17 git commit -m "added testing files"
+  18 git status
+  19 clear
+  20 git rm helloworld.java
+  21 git restore helloworld.java
+  23 git restore helloworld.java
+  git restore --staged helloworld.java
